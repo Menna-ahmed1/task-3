@@ -1,0 +1,114 @@
+body{
+    background-color: rgb(226, 194, 151);
+}
+/* .title1{
+color: rgb(119, 63, 36); */
+/* hr{
+color: rgb(126, 49, 30) */
+
+/* img{
+width: 270px;
+height: 270px;
+margin-left: 1050px;
+margin-bottom: 100px; */
+
+
+/* .div1{
+color: rgb(104, 49, 35);
+width: 400px;
+height: 30px;
+background-color: rgb(207, 161, 74);
+margin-top: 20px; */
+
+
+.div2{
+background-color: rgb(248, 217, 170);
+width: 200px;
+height: 430px;
+color: rgb(95, 47, 28);
+border-radius: 10px;
+border: 4px   solid;
+border-color: rgb(92, 48, 30);
+text-align: center;
+float: left;
+margin-left: 180px;
+margin-top: 40;
+}
+.div3{
+    background-color: rgb(248, 217, 170);
+width: 200px;
+height: 430px;
+color: rgb(94, 50, 36);
+border-radius: 10px;
+border: 4px   solid  ;
+border-color: rgb(95, 42, 29);
+text-align: center;
+float: left;
+margin-left: 50px;
+margin-top: 40;
+
+}
+.div4{
+    background-color: rgb(248, 217, 170);
+    width: 200px;
+    height: 430px;
+    color: rgb(94, 50, 36);
+    border-radius: 10px;
+    border: 4px   solid  ;
+    border-color: rgb(95, 42, 29);
+    text-align: center;
+     float: left;
+     margin-left: 50px;
+     margin-top: 40;
+}
+.div5{
+    background-color: rgb(248, 217, 170);
+    width: 200px;
+    height: 430px;
+    color: rgb(94, 50, 36);
+    border-radius: 10px;
+    border: 4px   solid  ;
+    border-color: rgb(95, 42, 29);
+    text-align: center;
+     float: left;
+margin-left: 50px;
+margin-top: 40;
+}
+.div6{
+margin-top: 500px;
+color: rgb(75, 39, 29);
+margin-left: 500px;
+
+
+}
+img{
+margin-left: 370px;
+background-color: rgb(226, 194, 151);
+width: 600px;
+height: 280px;
+
+}
+
+.div2:hover{
+    background-color: blanchedalmond;
+}
+
+.div3:hover{
+    background-color: blanchedalmond;
+}
+
+.div4:hover{
+    background-color: blanchedalmond;
+}
+
+.div5:hover{
+    background-color: blanchedalmond;
+}
+
+
+
+
+
+
+
+
